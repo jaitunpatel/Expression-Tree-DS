@@ -1,4 +1,5 @@
 // Node Class
+// contains different constructors with different input
 public class Node
 {
     private char operator;
